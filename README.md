@@ -1,1 +1,0 @@
-# navaratri2020
