@@ -554,7 +554,7 @@ $(document).ready(function() { $curtainopen = false; $(".rope").click(function()
 <div class="row" style="padding-left: 17px;padding-right: 17px;color:blue;font: 100 1.5em/1 Oswald, sans-serif;line-height:1.5;font-weight:bold;">
 <b style="text-shadow: 1px 1px 3px white, 1px 1px 3px white, -1px -1px 3px white, -1px -1px 3px white; color: red;"></b>
 <p style="text-shadow: 1px 1px 3px white, 1px 1px 3px white, -1px -1px 3px white, -1px -1px 3px white; color: red;">
-"जिसका हमको था इंतजार<br>
+"ा हमको था इंतजार<br>
 आखिर वो घड़ी आ रही है,<br>
 होकर सिंह पर सवार माता<br>
 रानी सबके घर रही है,<br>
